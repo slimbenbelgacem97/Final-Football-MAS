@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Football_Matchc.unity
+  isLoaded: 1
+  isActive: 1
